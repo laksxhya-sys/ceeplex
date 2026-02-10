@@ -1,8 +1,0 @@
-{
-  "name": "ceeplex ai studio",
-  "description": "AI-powered creative platform for chat and image generation templates.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
